@@ -34,7 +34,7 @@ This is an AngularJS application to demonstrate how to use separate backend and 
 
 ### Backend :
 
-Backend is a Sails application without frontend. Basically this only serves an API calls - nothing else.
+@TODO: Backend needs to be set up
 
 ## Update Environment:
 
