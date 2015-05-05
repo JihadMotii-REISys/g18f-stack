@@ -8,7 +8,7 @@ $ vagrant up
 </pre>
 
 
-Note: the IP address allocated to this new VM Box is 192.168.56.106 and if you have used this IP Address, you can change it in `puphpet/config.yaml`
+Note: the IP address allocated to this new VM Box is 192.168.56.107 and if you have used this IP Address, you can change it in `puphpet/config.yaml`
 
 ## Starting dev :
 
@@ -25,7 +25,7 @@ To browse the project on the guest machine:
 
 <pre>
 $ vagrant ssh
-$ cd /var/www/g18f-stack/
+$ cd /var/www/gsa-18f
 </pre>
 
 ### Frontend :
@@ -43,5 +43,3 @@ If you want to update your environment with our latest builds, simply browse to 
 <pre>
 $ vagrant provision --provision-with shell
 </pre>
-
-![MK](webapp/assets/images/mk.jpg)
