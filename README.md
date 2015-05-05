@@ -1,10 +1,9 @@
-# mortal-kombat
-[![Build Status](https://travis-ci.org/REI-Systems/mortal-kombat.svg?branch=develop)](https://travis-ci.org/REI-Systems/mortal-kombat)
+# GSA 18F Stack
 
 ## Install Environment:
 
 <pre>
-$ git clone https://github.com/REI-Systems/mortal-kombat.git
+$ git clone https://github.com/JihadMotii-REISys/g18f-stack.git
 $ vagrant up
 </pre>
 
@@ -26,7 +25,7 @@ To browse the project on the guest machine:
 
 <pre>
 $ vagrant ssh
-$ cd /var/www/snap/
+$ cd /var/www/g18f-stack/
 </pre>
 
 ### Frontend :
